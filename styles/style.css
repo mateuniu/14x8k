@@ -21,4 +21,8 @@ body {
   height: 70vh;
   background-color: #9f5edb;
 }
+
+.navigation {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
