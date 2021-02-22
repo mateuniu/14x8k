@@ -25,4 +25,9 @@ body {
 .navigation {
   display: none;
 }
+
+.footer {
+  background-color: brown;
+  height: 10vh;
+}
 /*# sourceMappingURL=style.css.map */
