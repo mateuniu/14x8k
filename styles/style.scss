@@ -1,5 +1,13 @@
+// BASE //
 @import 
-	'base/base',
+	'base/base';
+
+// UTILITIES //
+@import 
+	'utilities/breakpoints.scss';
+
+// LAYOUT //
+@import 
 	'layout/header',
 	'layout/main',
 	'layout/navigation',
